@@ -1,0 +1,1 @@
+This is how I followed a really popular CSS course to go back to basics.

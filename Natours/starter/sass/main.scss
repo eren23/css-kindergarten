@@ -16,8 +16,11 @@ Dark green: #28b485
 @import "base/utilities";
 
 @import "components/button";
-
-@import "pages/home";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/card";
+ 
+@import "pages/home"; 
 
 @import "layout/grid";
 @import "layout/header";
